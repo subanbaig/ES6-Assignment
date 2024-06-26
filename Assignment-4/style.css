@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+}
+
+img.avatar.border.border-rounded-pill {
+    border-radius: 100%;
+}
+
+.container.main {
+    display: flex;
+}
